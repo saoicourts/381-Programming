@@ -8,7 +8,7 @@ We will be using Python in a Jupyter notebook as a scripting language and Gurobi
 ## Things to do BEFORE COMING TO LECTURE
 1. **Get a (free) Gurobi academic license**
 You can [visit this page]{http://www.gurobi.com/registration/academic-license-reg} to fill out a form to get your academic license. You will need to create an account using your UW email address and then log in to get your key.
-
+    
 Keep this until later.
 1. **Install Anaconda and Python**
 *Even if you have Python installed on your computer already*, you will need to install the distribution that comes with Anaconda. This will ensure you have a compatible installation which includes Gurobi and Jupyter and everything else you will need.
