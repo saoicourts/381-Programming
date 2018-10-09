@@ -12,8 +12,8 @@ You can [visit this page](http://www.gurobi.com/registration/academic-license-re
 *Even if you have Python installed on your computer already*, you will need to install the distribution that comes with Anaconda. This will ensure you have a compatible installation which includes Gurobi and Jupyter and everything else you will need.
     
     Visit [this page](http://www.gurobi.com/downloads/get-anaconda) to see the instructions for your operating system. **Be sure to get the version with Python 3.6**. I will be giving instructions for this version of Python and you will find you get frustrating small errors if you get the wrong version. Follow the instructions to install Anaconda and Gurobi. 
-*       It will ask if you want to add the new files to your PATH. You probably want this unless you have a custom Python installation already (in which case you probably know what to do).
-*       You do not need to install VSCode that comes bundled with it although I think it's a great IDE. We will be using Jupyter notebooks (which comes bundled with Anaconda).
+        * It will ask if you want to add the new files to your PATH. You probably want this unless you have a custom Python installation already (in which case you probably know what to do).
+        * You do not need to install VSCode that comes bundled with it although I think it's a great IDE. We will be using Jupyter notebooks (which comes bundled with Anaconda).
     
 1. **Download these files to your computer**
     If you have `git` installed (if you are not sure, you probably don't) you can clone this repository to your computer by opening a terminal, `cd`ing to your desired directory, then issuing the command `git clone https://github.com/NicoCourts/381-Programming`. This has the slight advantage that when I release more files to this repository you can just issue a `git pull` command to get the updates.
