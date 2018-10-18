@@ -23,7 +23,7 @@ You can [visit this page](http://www.gurobi.com/registration/academic-license-re
 1. **Run Jupyter to make sure everything is working**
     If you are on **Windows**, search for the Anaconda folder in your programs and within it you should find Jupyter.
     
-    If you are on **Mac or Linux**, open a terminal and issue the command `Jupyter Notebook` in the directory containing these files.
+    If you are on **Mac or Linux**, open a terminal and issue the command `jupyter notebook` in the directory containing these files.
     
     In either case, you can then navigate to the file `Getting-Acquainted.ipynb` and open it up. Inside you will find an introduction to Python (if you need it) as well as some commands that will verify that everything is set up properly.
 
