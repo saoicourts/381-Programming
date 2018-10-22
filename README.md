@@ -25,6 +25,8 @@ You can [visit this page](http://www.gurobi.com/registration/academic-license-re
     
     If you are on **Mac or Linux**, open a terminal and issue the command `jupyter notebook` in the directory containing these files.
     
-    In either case, you can then navigate to the file `Getting-Acquainted.ipynb` and open it up. Inside you will find an introduction to Python (if you need it) as well as some commands that will verify that everything is set up properly.
+    In either case, you can then navigate to the file `Getting-Acquainted.ipynb` and open it up. We will be going through this together in class since this is a rather quick introduction.
+    
+    Try running a few of the cells to verify that everything is set up properly.
 
 Come talk to me in office hours if you have trouble with any parts of the above. It is important we resolve your issues *before* our lecture so that you can follow along and learn from doing.
