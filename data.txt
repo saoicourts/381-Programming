@@ -1,0 +1,13 @@
+#  10 City Tour
+#  Remember to ignore these  first lines when you are parsing your data!
+#  Format: <x-coordinate> <y-coordinate>
+-5245.72     3038.81
+-6188.88     3076.14
+-5975.39     2908.91
+-8380.61     2622.85
+-5685.17     2603.52
+-8479.42     2656.02
+-6202.7     3014.64
+-7667.55     2226.26
+-5375.64     2483.28
+-8278.33     2730.66
